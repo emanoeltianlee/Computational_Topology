@@ -1,5 +1,5 @@
 import unittest
-from src.SimplicialComplex import SimplicialComplex
+from SimplicialComplex import SimplicialComplex
 
 class TestSimplicialComplex(unittest.TestCase):
     def test_add_simplex(self):

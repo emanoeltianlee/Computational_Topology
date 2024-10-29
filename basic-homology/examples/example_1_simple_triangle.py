@@ -1,6 +1,6 @@
-from src.SimplicialComplex import SimplicialComplex
-from src.ChainComplex import ChainComplex
-from src.Homology import Homology
+from SimplicialComplex import SimplicialComplex
+from ChainComplex import ChainComplex
+from Homology import Homology
 
 vertices = ['A', 'B', 'C']
 simplices = [['A', 'B'], ['B', 'C'], ['C', 'A'], ['A', 'B', 'C']]

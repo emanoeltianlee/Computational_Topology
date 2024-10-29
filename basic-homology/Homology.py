@@ -1,4 +1,4 @@
-from src.BoundaryOperator import BoundaryOperator
+from BoundaryOperator import BoundaryOperator
 from collections import Counter
 
 class Homology:
